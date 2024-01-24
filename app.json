@@ -1,6 +1,7 @@
 {
   "expo": {
     "name": "coffee-app-react-native",
+    "experiments": { "tsconfigPaths": true },
     "slug": "coffee-app-react-native",
     "version": "1.0.0",
     "orientation": "portrait",
